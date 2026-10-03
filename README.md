@@ -324,16 +324,4 @@ Thanks for helping improve the project!
 
 ## 📢 Contact Info 
 
-- 🔗 [X (twitter)](https://x.com/miravaorg)
-- 📣 [Telegram Channel](https://t.me/miravaorg)
-- 🔗 [Email](Miravaorg@proton.me)
-
----
-
-Special thanks to **Arman Taheri**  
-[ArmanTaheriGhaleTaki](https://github.com/ArmanTaheriGhaleTaki)  
-for contributing multiple mirror links.
-
----
-
 Enhancements to the cross-distribution repository/DNS optimizer, interactive menu, and multilingual documentation by [**Farshid Sar**](https://github.com/farshidsar).
